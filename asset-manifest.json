@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6a3c36d.css",
+    "main.js": "/static/js/main.d5a79a23.js",
+    "static/media/cloudy-sky.jpg": "/static/media/cloudy-sky.fe6cd0d8bcd5c44cd7c0.jpg",
+    "index.html": "/index.html",
+    "main.a6a3c36d.css.map": "/static/css/main.a6a3c36d.css.map",
+    "main.d5a79a23.js.map": "/static/js/main.d5a79a23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a3c36d.css",
+    "static/js/main.d5a79a23.js"
+  ]
+}
